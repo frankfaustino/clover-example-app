@@ -1,4 +1,4 @@
-package com.example.firstcloverapp;
+package com.example.franktestapp;
 
 import org.junit.Test;
 
